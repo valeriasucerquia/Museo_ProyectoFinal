@@ -3,7 +3,7 @@ from model.obraDeArte import ObraDeArte
 class Escultura(ObraDeArte):
     def __init__(self, nombre, autor, en_venta, volumen, material):
         super().__init__(nombre, autor, en_venta)
-        self.__volumen = volumen
+        self.__volumen = volumen # Variable privada
         self.__material = material
 
     @property #Get
