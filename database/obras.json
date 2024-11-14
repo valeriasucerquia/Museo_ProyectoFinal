@@ -1,0 +1,27 @@
+[
+    {
+        "_nombre": "La Gioconda",
+        "_autor": "Leonardo da Vinci",
+        "_en_venta": false,
+        "_Pintura__dimensiones": "77 x 53 cm",
+        "_Pintura__tecnica": "\u00d3leo sobre tabla",
+        "_Pintura__retrato": true
+    },
+    {
+        "_nombre": "La Gioconda",
+        "_autor": "Leonardo da Vinci",
+        "_en_venta": false,
+        "_Pintura__dimensiones": "77 x 53 cm",
+        "_Pintura__tecnica": "\u00d3leo sobre tabla",
+        "_Pintura__retrato": true,
+        "tipo_de_obra": "pintura"
+    },
+    {
+        "_nombre": "La Gioconda2",
+        "_autor": "Leonardo da Vinci",
+        "_en_venta": false,
+        "_Escultura__volumen": "77 x 53 cm",
+        "_Escultura__material": "\u00d3leo sobre tabla",
+        "tipo_de_obra": "escultura"
+    }
+]
